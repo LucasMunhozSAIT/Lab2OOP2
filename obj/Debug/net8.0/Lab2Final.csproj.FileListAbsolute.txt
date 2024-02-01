@@ -1,0 +1,14 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\obj\Debug\net8.0\Lab2Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\obj\Debug\net8.0\Lab2Final.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\obj\Debug\net8.0\Lab2Final.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\obj\Debug\net8.0\Lab2Final.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\bin\Debug\net8.0\Lab2Final.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\bin\Debug\net8.0\Lab2Final.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\bin\Debug\net8.0\Lab2Final.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\bin\Debug\net8.0\Lab2Final.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\bin\Debug\net8.0\Lab2Final.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\obj\Debug\net8.0\Lab2Final.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\obj\Debug\net8.0\refint\Lab2Final.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\obj\Debug\net8.0\Lab2Final.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\obj\Debug\net8.0\Lab2Final.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Lab2Final\obj\Debug\net8.0\ref\Lab2Final.dll
